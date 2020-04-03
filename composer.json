@@ -1,5 +1,6 @@
 {
     "require": {
-        "silex/silex": "~2.0", "ext-json": "*", "doctrine/dbal": "2.5.1"
+        "silex/silex": "~2.0", "ext-json": "*", "doctrine/dbal": "2.5.1",
+        "ext-pdo": "*"
     }
 }
